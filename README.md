@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VanathiLakshmiJK
-- 👀 I’m interested in Frontend development, Data analysis, PowerBI
-- 🌱 I’m currently learning Data analysis, Deep learning
-- 💞️ I’m looking to collaborate on Deep learning and Data analysis
+- 👀 I’m interested in Java programming
+- 🌱 I’m currently learning Java and DSA
 - 📫 Reach me on Instagram vanu_laks
 
 
